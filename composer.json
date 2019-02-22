@@ -1,0 +1,29 @@
+{
+    "name": "weatherpi/testcomponents1",
+    "description": "only for testing components1",
+    "keywords": ["weatherpi"],
+    "homepage": "http://example.com",
+    "license": "MIT",
+    "authors": [
+        {
+        "name": "Josh Lockhart",
+        "homepage": "https://github.com/nickppbd",
+        "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "help@example.com"
+    },
+    "require": {
+        "php" : ">=5.4.0"
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Weatherpi\\component1\\": "src/"
+        }
+    }
+}
