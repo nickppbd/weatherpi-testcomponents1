@@ -1,4 +1,6 @@
 <?php
+namespace Weatherpi\component1;
+
 class HelloComponents1
 {
     protected $name = "components1";
