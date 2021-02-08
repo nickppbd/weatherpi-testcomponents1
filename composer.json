@@ -29,6 +29,6 @@
 repositories": [
         {
             "type": "git",
-            "url": "https://github.com/gjedeer/celery-php"
+            "url": "https://github.com/nickppbd/weatherpi-testcomponents1/tree/weatherpi-testcomponents2"
         }
 }
