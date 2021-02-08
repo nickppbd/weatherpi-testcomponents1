@@ -26,9 +26,4 @@
             "Weatherpi\\component1\\": "src/"
         }
     }
-repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/nickppbd/weatherpi-testcomponents1/tree/weatherpi-testcomponents2"
-        }
 }
