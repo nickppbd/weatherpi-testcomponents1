@@ -26,4 +26,9 @@
             "Weatherpi\\component1\\": "src/"
         }
     }
+repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/gjedeer/celery-php"
+        }
 }
