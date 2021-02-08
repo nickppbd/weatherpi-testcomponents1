@@ -2,5 +2,5 @@
 
 interface TestInterface
 {
-    fucntion getName()
+    fucntion getName2()
 }
